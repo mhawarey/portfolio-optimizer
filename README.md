@@ -60,7 +60,12 @@ python main.py
 
 ## Author
 
-**Dr. Mosab Hawarey** — [github.com/mhawarey](https://github.com/mhawarey)
+**Dr. Mosab Hawarey**
+PhD, Geodetic & Photogrammetric Engineering (ITU) | MSc, Geomatics (Purdue) | MBA (Wales) | BSc, MSc (METU)
+
+- GitHub: https://github.com/mhawarey
+- Personal: https://hawarey.org/mosab
+- ORCID: https://orcid.org/0000-0001-7846-951X
 
 ## License
 
@@ -68,4 +73,4 @@ MIT License
 
 ## Disclaimer
 
-For educational purposes only. Not financial advice.
+For educational and research purposes only. Not financial advice.
