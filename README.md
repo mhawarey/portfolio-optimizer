@@ -1,5 +1,7 @@
 # Portfolio Optimizer — S&P 500
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 A PyQt5 desktop application for portfolio optimization across S&P 500 stocks, featuring Modern Portfolio Theory optimization, interactive dashboards, and configurable investment strategies.
 
 ## Screenshots
@@ -61,6 +63,7 @@ python main.py
 ## Author
 
 **Dr. Mosab Hawarey**
+>
 PhD, Geodetic & Photogrammetric Engineering (ITU) | MSc, Geomatics (Purdue) | MBA (Wales) | BSc, MSc (METU)
 
 - GitHub: https://github.com/mhawarey
